@@ -1,68 +1,144 @@
 <div align="center">
 
-# Hi there, I'm Syamjith V 👋
+# Hi, I'm Syamjith V 👋
 
-### Computer Science Student • AI Builder • Product Thinker
+### Computer Science Undergraduate • AI Builder • Product Enthusiast • Open Source Learner
 
-Building technology that solves real-world problems.
+Building technology that solves real problems, one project at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+<p>
+  <a href="https://github.com/syamjithv">
+    <img src="https://komarev.com/ghpvc/?username=syamjithv&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a Computer Science undergraduate from India passionate about building products that create real impact.
+I'm a Computer Science student passionate about building products that create meaningful impact.
 
-Instead of writing code for the sake of coding, I enjoy designing solutions around real problems—whether that's using AI to improve daily life, building platforms for students, or exploring ideas at the intersection of technology and finance.
+I enjoy combining **software engineering**, **AI**, and **product thinking** to solve real-world problems rather than building projects just for the sake of adding them to a resume.
 
-Currently focused on:
+Currently exploring:
 
 - 🤖 Artificial Intelligence & LLM Applications
 - 💻 Full Stack Development
-- ☁️ Cloud & Deployment
-- 📊 Product Management
-- 📈 FinTech & Financial Technology
+- 🧩 Data Structures & Algorithms
+- 📦 Product Management
 - 🌍 Open Source
+- ☁️ Cloud & Deployment
 
 ---
 
-## 🚀 Tech Stack
+## 💡 What I'm Working On
+
+- 🚧 AI-powered applications
+- 📚 Strengthening DSA & System Design
+- 🌱 Contributing to Open Source
+- 🏆 Hackathons & Global Fellowships
+- ⚡ Building projects that people actually use
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-
-### AI & Cloud
-
-![Gemini](https://img.shields.io/badge/Gemini-AI-blue?style=flat-square)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 ### Tools
 
-Git • GitHub • Linux • VS Code • IntelliJ IDEA • Figma
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-# 📌 Featured Projects
+## 🌟 Featured Projects
 
-### 🌐 EchoRelief
-Offline-first disaster communication platform that enables local messaging even when internet connectivity is unavailable.
+### 🛰 Echo Relief
+Offline-first disaster communication platform using Flask & Socket.IO.
 
-**Tech:** Flask • Socket.IO • PWA
+> Enabling communication when the internet doesn't.
+
+---
+
+### 🌱 CarbonWise AI
+AI-powered platform that helps users understand and reduce their carbon footprint through personalized recommendations.
+
+---
+
+### 📖 SkillForge
+A learning platform for coding interview preparation and technical skill development.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=syamjithv&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=syamjithv&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamjithv&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Current Goals
+
+- ✅ Become a strong Software Engineer
+- 🚀 Contribute consistently to Open Source
+- 🧠 Build impactful AI products
+- 🌍 Earn global internships & fellowships
+- 📚 Never stop learning
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+
+<a href="https://github.com/syamjithv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:syamjithvsankar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Build things that matter."
+
+⭐ If you find something interesting here, feel free to explore the repositories!
+
+</div>
 
