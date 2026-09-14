@@ -1,144 +1,91 @@
-<div align="center">
+# Hey, I'm Syamjith 👋
 
-# Hi, I'm Syamjith V 👋
+### CSE Student • Builder • Open Source Learner • Future Product Engineer
 
-### Computer Science Undergraduate • AI Builder • Product Enthusiast • Open Source Learner
+I'm a Computer Science student who likes turning ideas into things that actually work.
 
-Building technology that solves real problems, one project at a time.
+Currently exploring **software engineering, AI-powered applications, algorithms, and systems**, while slowly going deeper into the fundamentals that make good software possible.
 
-<p>
-  <a href="https://github.com/syamjithv">
-    <img src="https://komarev.com/ghpvc/?username=syamjithv&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
-</div>
+I enjoy building projects that solve real problems — especially when they force me to learn something I didn't know before.
 
 ---
 
-## 🚀 About Me
+## 🧠 What I'm Working On
 
-I'm a Computer Science student passionate about building products that create meaningful impact.
+- 🧩 Learning **Data Structures & Algorithms** and solving problems consistently
+- ☕ Building software with **Java, Python & C**
+- 🤖 Experimenting with **AI-assisted development and LLM-powered applications**
+- 🌐 Building full-stack projects and learning how things work beyond the UI
+- 🐙 Contributing to **open source** and learning collaborative development
+- 🚀 Turning project ideas into properly structured, maintainable software
 
-I enjoy combining **software engineering**, **AI**, and **product thinking** to solve real-world problems rather than building projects just for the sake of adding them to a resume.
-
-Currently exploring:
-
-- 🤖 Artificial Intelligence & LLM Applications
-- 💻 Full Stack Development
-- 🧩 Data Structures & Algorithms
-- 📦 Product Management
-- 🌍 Open Source
-- ☁️ Cloud & Deployment
+> Currently in the phase of going from **"I know the concept" → "I can actually build it."**
 
 ---
 
-## 💡 What I'm Working On
-
-- 🚧 AI-powered applications
-- 📚 Strengthening DSA & System Design
-- 🌱 Contributing to Open Source
-- 🏆 Hackathons & Global Fellowships
-- ⚡ Building projects that people actually use
-
----
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
+`C` `Java` `Python` `JavaScript`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Development
+`Git` `GitHub` `Maven` `Flask` `Socket.IO` `Swing`
 
-### Web
+### Currently Learning
+`Data Structures & Algorithms` `SQL` `DBMS` `Operating Systems` `System Design`
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+### Exploring
+`AI/LLMs` `Backend Development` `Cloud` `Open Source` `Software Engineering`
 
 ---
 
-## 🌟 Featured Projects
+## 🔨 Things I've Built
 
-### 🛰 Echo Relief
-Offline-first disaster communication platform using Flask & Socket.IO.
+### 🛡️ MindGuard
+An AI-powered cognitive wellness application designed around student fatigue, screen time, study patterns and recovery.
 
-> Enabling communication when the internet doesn't.
-
----
-
-### 🌱 CarbonWise AI
-AI-powered platform that helps users understand and reduce their carbon footprint through personalized recommendations.
+**Built with:** Python • AI/LLMs • Web Technologies
 
 ---
 
-### 📖 SkillForge
-A learning platform for coding interview preparation and technical skill development.
+### 📡 EchoRelief
+A local-network disaster communication system designed to enable communication and SOS alerts when conventional internet connectivity may not be available.
+
+**Built with:** Python • Flask • Socket.IO
 
 ---
 
-## 📊 GitHub Analytics
+### ⚡ ByteForce
+A Java-based desktop application focused on coding and placement preparation, built with a team and developed using a structured Git/GitHub workflow.
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syamjithv&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=syamjithv&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamjithv&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+**Built with:** Java 21 • Maven • Swing • Git/GitHub
 
 ---
 
-## 📈 Current Goals
+## 🏆 Some Things I've Done
 
-- ✅ Become a strong Software Engineer
-- 🚀 Contribute consistently to Open Source
-- 🧠 Build impactful AI products
-- 🌍 Earn global internships & fellowships
-- 📚 Never stop learning
-
----
-
-## 🤝 Let's Connect
-
-<p>
-
-<a href="https://github.com/syamjithv">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:syamjithvsankar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+- 🥇 **1st Prize** — World TB Day AI Caricature Competition
+- 🏗️ Participated in multiple hackathons and coding competitions
+- 🌍 Contributed through open-source programs and community initiatives
+- 💡 Developed projects around AI, accessibility, cybersecurity and social impact
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
 
 ---
 
-<div align="center">
+## 🌱 My Current Roadmap
 
-### "Build things that matter."
-
-⭐ If you find something interesting here, feel free to explore the repositories!
-
-</div>
+```text
+Programming Fundamentals
+        ↓
+Data Structures & Algorithms
+        ↓
+Problem Solving
+        ↓
+Backend Development
+        ↓
+Systems & Software Engineering
+        ↓
+AI + Production Applications
+        ↓
+Build things people actually use
 
