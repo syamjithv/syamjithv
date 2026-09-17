@@ -88,4 +88,13 @@ Systems & Software Engineering
 AI + Production Applications
         ↓
 Build things people actually use
-
+╭─────────────────────────────────────────────╮
+│ PROJECT / BYTEFORCE                         │
+│                                             │
+│ Java 21 · Maven · Swing                    │
+│                                             │
+│ STATUS     █████████░  ACTIVE              │
+│ PURPOSE    Coding + placement preparation  │
+│                                             │
+│ github.com/...                              │
+╰─────────────────────────────────────────────╯
